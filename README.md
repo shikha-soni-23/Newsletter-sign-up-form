@@ -52,7 +52,7 @@ Mobile Preview:
 
 ### Links
 
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://fm-newsletter-signup-form.netlify.app/)
 
 ## My process
 - Designed the layout structure using HTML.
